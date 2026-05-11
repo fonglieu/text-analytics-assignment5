@@ -1,0 +1,47 @@
+Company: Bayview Asset Management, LLC
+Title: Data Operations Analyst
+Location: Hybrid – New York, NY or Denver, CO (3 days on-site)
+Source: https://lmu.joinhandshake.com/job-search/10974135
+Date Collected: 2026-05-09
+
+--- JOB DESCRIPTION ---
+
+About Bayview Asset Management:
+Founded in 1993, Bayview Asset Management is an investment management firm focused on mortgage and consumer credit investments, including whole loans, asset-backed securities, mortgage servicing rights, and other credit-related assets.
+
+Position Summary:
+Bayview Asset Management (BAM) is seeking a highly motivated Analyst to join its IT Data Operations team. This role is part of a cross-functional group operating at the intersection of residential, consumer, and commercial loan analytics, capital markets, and structured finance. The Analyst will support BAM's core mortgage-related activities, including loan acquisitions and sales, securitization preparation, collateral management, and ad hoc data and strategy initiatives. Positioned within the Capital Markets group, this role offers direct exposure to trading, research, system development, operations, and structuring teams.
+
+Employment Type: Full-time
+Compensation: $80,000 – $100,000/yr + performance-based bonus
+Location: Hybrid – New York, NY or Denver, CO (3 days on-site, 2 days remote)
+
+Key Responsibilities:
+- Analyze and prepare loan tape data for internal credit models, investor deliverables, and rating agency packages
+- Assist in designing and implementing ETL pipelines to extract data from various systems, such as SQL databases, CRM, and flat files
+- Clean, format, and transform raw data into usable formats for analytical purposes, including data warehousing
+- Assist in developing, updating, and maintaining ETL mappings and workflows
+- Develop and perform unit tests to ensure data quality and integrity; optimize ETL workflows for better performance
+- Provide production support for ETL jobs, debugging issues, and reducing technical defects
+- Provide analytics support across residential, consumer, and commercial departments, as well as strategy and structuring teams
+- Conduct quarterly residential loan portfolio valuations (institutional level) and provide market commentary and pricing perspectives
+- Perform collateral integrity checks, identify and troubleshoot data anomalies, and enhance validation procedures
+- Prepare daily rate-lock updates, daily position reports, and month-end collateral reviews
+- Contribute to automation and AI-driven initiatives to enhance operational efficiency
+- Partner with research, technology, and operations teams to build scalable solutions
+- Manage and prioritize intraday and ad-hoc data requests from trading desks and internal stakeholders
+
+Required Skills and Experience:
+- Exceptional analytical and quantitative skills with strong attention to detail
+- Strong communication skills, with the ability to clearly articulate complex data and insights
+- Familiarity with ETL tools such as Informatica, Microsoft SSIS, Talend, or DataStage
+- Solid understanding of data modeling, data warehouse design, and cloud technologies
+- Proficiency in Excel, Word, SQL, and Python (required)
+- Experience with Tableau or Power BI is a plus
+- Quick learner with the ability to adapt to proprietary systems and new tools
+- Strong organizational skills, with the ability to manage multiple priorities and meet tight deadlines
+- Collaborative team player who thrives in cross-functional environments
+
+Qualifications:
+- Bachelor's degree in a quantitative or analytical field (Finance, Economics, Math, Computer Science, or related discipline)
+- 0–2 years of experience in data analysis, operations, or a related role within financial services preferred
