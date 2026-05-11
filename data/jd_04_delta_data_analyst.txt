@@ -1,0 +1,47 @@
+Company: Delta Air Lines
+Title: Senior Analyst, Customer Data Solutions
+Location: Atlanta, GA (Hybrid)
+Source: https://delta.avature.net/en_US/careers/JobDetail?jobId=32490
+Date Collected: 2026-05-09
+
+--- JOB DESCRIPTION ---
+
+About Delta Air Lines:
+Delta Air Lines serves nearly 180 million customers each year. With an industry-leading global network, Delta and the Delta Connection carriers offer service to 330 destinations in 61 countries on six continents. Headquartered in Atlanta, Delta employs nearly 80,000 employees worldwide.
+
+About the Role:
+The Customer Data Solutions team is responsible for delivering powerful, insightful metrics, dashboards, and reports to support Delta's customer-facing operations. We are looking for an analytical, detail-oriented Senior Analyst to work with our existing data layer and help build scalable solutions that drive business decisions.
+
+Responsibilities:
+- Analyze large datasets related to customer behavior, scheduling, performance, and operational metrics
+- Develop, maintain, and improve reporting tools, dashboards, and visualizations using Tableau and Python
+- Write SQL queries from scratch to extract, model, and transform data from Teradata, SQL Server, and AWS environments
+- Collaborate with cross-functional teams to identify data sources, perform data engineering, and maintain ETL pipelines
+- Wrangle large datasets using Python and SQL to identify opportunities and understand performance trends
+- Build and handle multi-source datasets to support department initiatives in a timely manner
+- Leverage emerging technologies to efficiently communicate data and analysis to organizational leaders
+- Develop and improve automated reports and analyses to support leadership and customer-facing teams
+- Communicate complex data findings clearly to non-technical stakeholders
+
+Qualifications / Requirements:
+- Bachelor's degree in Data Science, Business Analytics, Statistics, Computer Science, or a related field
+- 1+ years of significant work experience in a Business Analysis, Data Analytics, or Data Creation role
+- Proficiency in data querying and modeling; ability to write SQL queries from scratch
+- Experience with a scripting language to automate queries (Python preferred)
+- Familiarity with data visualization tools: Tableau, Excel, Power BI
+- Strong analytical and problem-solving skills to identify trends and patterns in data
+- Ability to communicate complex data insights clearly and effectively to non-technical audiences
+- Ability to work in a fast-paced, team environment with minimal direction
+
+Preferred Skills:
+- Advanced SQL modeling and querying skills
+- Experience with AWS or cloud-based data platforms
+- Familiarity with Alteryx, SAS, or similar data prep tools
+- Master's degree or relevant certifications (e.g., Tableau Certification, Python for Data Science)
+- Experience in the aviation, logistics, or transportation industry
+
+Benefits:
+- Travel privileges on Delta flights for employees and eligible family members
+- Comprehensive health and wellness benefits
+- 401(k) retirement savings plan with company matching
+- Opportunities for professional development through training and career advancement

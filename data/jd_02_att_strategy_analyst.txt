@@ -1,0 +1,45 @@
+Company: AT&T
+Title: Strategy Analyst – Wireline Transformation & Supply Chain
+Location: Dallas, TX
+Source: https://www.att.jobs/job/-/strategy-analyst/117/91141973728
+Date Collected: 2026-05-09
+
+--- JOB DESCRIPTION ---
+
+Job Overview:
+You'll play a critical role in advancing AT&T's Wireline Transformation and Supply Chain (WTSC) Strategy Team. As a Strategy Analyst, you'll support collaborative problem-solving and provide analytical expertise to help shape billions of dollars in investments, drive cost transformation, and implement best-in-class practices across AT&T's expansive supply chain and networks. If you're motivated by data-driven problem-solving and thrive in a fast-paced, results-oriented environment, this is the opportunity for you.
+
+Responsibilities:
+- Analyze complex internal business problems and develop actionable solutions to drive business transformation
+- Gather and standardize financial and operational data from multiple sources to uncover trends and improve cost efficiency
+- Build and apply statistical and financial models to identify cost-saving opportunities, utilizing clean sheet and should-cost methodologies
+- Develop and maintain dashboards and reports to track KPIs and inform executive decision-making
+- Collaborate with cross-functional teams across supply chain, finance, and operations
+- Prepare clear, compelling presentations and memos for senior leadership
+- Support strategic planning cycles, including annual and quarterly technology and operations roadmaps
+- Conduct market and competitive research to support strategic recommendations
+
+Qualifications / Requirements:
+- Bachelor's degree in Business, Finance, Economics, Engineering, or a related quantitative field
+- 1-3 years of experience in analytics, consulting, finance, or a strategy-related role
+- Strong proficiency in Microsoft Excel and PowerPoint
+- Experience with SQL for data querying and analysis
+- Demonstrated ability to work with large datasets and translate findings into actionable insights
+- Strong written and verbal communication skills
+- Ability to manage multiple priorities and deliver results in a fast-paced environment
+
+Preferred Skills:
+- Experience with data visualization tools such as Tableau or Power BI
+- Familiarity with Python or R for data analysis
+- Background in supply chain, logistics, or telecommunications
+- Experience with financial modeling and cost analysis
+
+Compensation:
+$71,900 – $107,900 annually (Dallas, TX)
+
+Benefits:
+- Paid Time Off and Holidays (at least 23 days of vacation each year)
+- Paid Parental Leave
+- Tuition reimbursement program
+- Employee discounts on AT&T products and services
+- Comprehensive health benefits

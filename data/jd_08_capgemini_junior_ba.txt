@@ -1,0 +1,68 @@
+Company: Capgemini America Inc.
+Title: Junior Business Analyst
+Location: Hybrid – Charlotte, NC or Nashville, TN
+Source: https://lmu.joinhandshake.com/job-search/10982553
+Date Collected: 2026-05-09
+
+--- JOB DESCRIPTION ---
+
+About Capgemini:
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world. It is a responsible and diverse group of 340,000 team members in more than 50 countries. Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs, delivering end-to-end services and solutions leveraging strengths from strategy and design to engineering, fueled by capabilities in AI, generative AI, cloud and data.
+
+About the Role:
+We are looking for a Junior Business Analyst to support project teams by assisting with requirements gathering, analysis, documentation, and stakeholder communication, while operating with an AI-first mindset. Following an initial training program focused on requirements gathering and consultative skills, Junior Business Analysts will work with Capgemini clients to develop, test, and maintain business applications. The role involves collaboration on transformative client projects within the insurance industry, using platforms such as Guidewire, Duck Creek, Earnix, Salesforce, and Majesco.
+
+Employment Type: Full-time
+Compensation: $60,000 – $65,000/yr
+Location: Hybrid – Charlotte, NC or Nashville, TN
+
+Key Responsibilities – Business & Stakeholder Support:
+- Support senior Business Analysts using AI-assisted research, summarization, and analysis
+- Participate in workshops and meetings, leveraging AI for note capture and insight extraction
+- Document discussions, decisions, and action items using AI to improve clarity and consistency
+- Build relationships with project team members and client stakeholders
+
+Key Responsibilities – Requirements & Analysis:
+- Assist in eliciting, documenting, and organizing business and functional requirements using AI-enabled analysis and documentation tools
+- Translate requirements into user stories, use cases, and acceptance criteria
+- Support current- and future-state analysis using AI to identify patterns and risks
+- Maintain requirements documentation and ensure traceability as changes occur
+
+Key Responsibilities – Delivery & Testing Support:
+- Collaborate with development and QA teams to clarify requirements and answer questions
+- Support system testing and User Acceptance Testing (UAT) by helping prepare test scenarios and reviewing results
+- Validate delivered functionality against requirements
+
+Documentation & Communication:
+- Create and maintain clear documentation such as requirement documents, meeting notes, and process diagrams using AI for speed and quality
+- Prepare presentations, walkthroughs, and status updates
+- Contribute reusable AI assets such as prompts and checklists
+
+Required Qualifications:
+- Bachelor's degree in Business, Information Systems, Finance, Economics, Management Information Systems, or related field
+- Strong analytical and problem-solving skills
+- Clear written and verbal communication skills
+- Ability to learn quickly and work effectively in a team environment
+- Attention to detail and organization
+
+Preferred Skills & Experience:
+- Internship or early experience in business analysis, technology, or consulting
+- Exposure to Agile or hybrid delivery concepts
+- Interest in insurance, banking, or financial services domains
+- Willingness to learn, adopt, and use AI tools responsibly
+- Exposure to platforms such as Salesforce, Guidewire, or Duck Creek
+
+Core Competencies:
+- Requirements analysis (foundational)
+- Stakeholder communication
+- Structured problem solving
+- AI-first mindset
+- Collaboration and adaptability
+
+Benefits:
+- Medical, dental, and vision coverage
+- Paid time off (12–25 days vacation depending on grade)
+- Company paid holidays and personal days
+- 401(k) retirement savings plan
+- Life and disability insurance
+- Employee assistance programs
