@@ -96,7 +96,7 @@ docs at https://huggingface.co/docs/api-inference for setup instructions.
 |---|---|
 | streamlit_app.py | Streamlit web app for running live job fit analyses |
 | requirements.txt | All Python dependencies needed to run the project |
-| .env.example | Template for setting up your API key |
+| env.example | Template for setting up your API key |
 | .gitignore | Excludes API keys and cache files from version control |
 | memo.md | Technical memo addressed to a hiring manager describing the system, results, and recommendations |
 | ai_log.md | Log of all AI tool usage throughout the project with dates, prompts, and modifications |
