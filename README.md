@@ -99,7 +99,7 @@ docs at https://huggingface.co/docs/api-inference for setup instructions.
 | env.example | Template for setting up your API key |
 | .gitignore | Excludes API keys and cache files from version control |
 | memo.md | Technical memo addressed to a hiring manager describing the system, results, and recommendations |
-| ai_log.md | Log of all AI tool usage throughout the project with dates, prompts, and modifications |
+| ai_log_assignment_5.md | Log of all AI tool usage throughout the project with dates, prompts, and modifications |
 | notebooks/Assignment_5_LLM.ipynb | Full RAG pipeline notebook including data loading, chunking, embedding, analysis, prompt iterations, zero-shot vs few-shot comparison, and evaluation |
 | data/jd_metadata.csv | Metadata for all 10 job descriptions including company, title, source URL, and date collected |
 | data/Fong_Lieu_Resume.pdf | Resume used as the candidate document for all analyses |
