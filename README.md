@@ -114,3 +114,9 @@ docs at https://huggingface.co/docs/api-inference for setup instructions.
 | data/jd_09_bayview_data_ops_analyst.txt | Bayview Asset Management — Data Operations Analyst job description |
 | data/jd_10_goldmansachs_data_office_analyst.txt | Goldman Sachs — Data Office Analyst job description |
 | evaluation/test_results.md | Evaluation table and analysis for all 9 analyses across the top 3 target roles |
+
+---
+
+## Streamlit App
+
+Link: https://fong-text-analytics-assignment5.streamlit.app/
